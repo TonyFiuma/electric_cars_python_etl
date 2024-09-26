@@ -5,7 +5,7 @@ import os
 csv_url = 'https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD'
 
 # Path of the destination folder
-output_dir = r"C:\Users\antonio.fiumano\OneDrive - We-Plus S.p.A\Desktop\ETL_Pandas_ElectricCar_USA\data_file"
+output_dir = r"C:\Users\antonio.fiumano\ETL_Pandas_ElectricCar_USA\data_file"
 
 # Create the folder if it does not exist
 os.makedirs(output_dir, exist_ok=True)
