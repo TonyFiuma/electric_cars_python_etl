@@ -9,11 +9,11 @@ This project is an ETL (Extract, Transform, Load) process built using Python and
 The data used in this project is sourced from the Washington State open data portal. You can download the dataset [here](https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD).
 
 ## Usage Instructions
-After executing the [`extract.py`](pandas_api_csv/extract.py) file, run the [`load.py`](pandas_api_csv/load.py) file to call the [`transform.py`](pandas_api_csv/transform.py) file and functions, which will extract the data and generate a CSV file.
+After executing the [`extract.py`](pandas_url_csv/extract.py) file, run the [`load.py`](pandas_url_csv/load.py) file to call the [`transform.py`](pandas_url_csv/transform.py) file and functions, which will extract the data and generate a CSV file.
 
 ![CSV](images/load_to_csv.jpg)
 
-If you wish to load the transformed data into Google BigQuery (using your own credentials), you should execute the [`load_bigquery.py`](pandas_api_bigquery/load_bigquery.py) file after running the [`extract.py`](pandas_api_csv/extract.py) file.
+If you wish to load the transformed data into Google BigQuery (using your own credentials), you should execute the [`load_bigquery.py`](pandas_url_bigquery/load_bigquery.py) file after running the [`extract.py`](pandas_url_csv/extract.py) file.
 
 ![BIG QUERY](images/load_to_bigquery.jpg)
 
