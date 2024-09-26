@@ -63,7 +63,7 @@ In addition to CSV output, this project also supports loading the transformed da
 For further questions, please contact:  
 **Antonio Fiumanò**  
 Data Engineer  
-[axelfiumano@gmail.com](mailto:axelfiumano@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/antonio-fiumano-68aab419a)  
-[Personal Website](https://tonyfiuma.github.io)
+- [axelfiumano@gmail.com](mailto:axelfiumano@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/antonio-fiumano-68aab419a)  
+- [Personal Website](https://tonyfiuma.github.io)
 
