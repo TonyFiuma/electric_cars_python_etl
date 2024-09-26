@@ -1,0 +1,724 @@
+VIN (1-10),Make,Model,Electric Vehicle Type,Electric Range,county_id,vehicle_id
+JTMAB3FV3P,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,0,0
+7FCTGAAA1P,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,1,1
+ZACPDFCW7R,DODGE,HORNET,Plug-in Hybrid Electric Vehicle (PHEV),32.0,2,2
+KNDPYDDH2R,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,0,3
+5UX43EU02S,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),40.0,3,4
+7G2CEHEDXR,TESLA,CYBERTRUCK,Battery Electric Vehicle (BEV),0.0,2,5
+JM3KKDHA1R,MAZDA,CX-90,Plug-in Hybrid Electric Vehicle (PHEV),26.0,2,6
+KNDCR3L11P,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,2,7
+KNDRMDLH6R,KIA,SORENTO,Plug-in Hybrid Electric Vehicle (PHEV),32.0,2,8
+5UXTA6C08P,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30.0,3,9
+JA4T5WA9XR,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),38.0,1,10
+KNDC4DLC0P,KIA,EV6,Battery Electric Vehicle (BEV),0.0,2,11
+JTMEB3FV9R,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,4,12
+5LMYJ9YYXP,LINCOLN,AVIATOR,Plug-in Hybrid Electric Vehicle (PHEV),21.0,1,13
+4JGFB4GB5R,MERCEDES-BENZ,GLE-CLASS,Plug-in Hybrid Electric Vehicle (PHEV),48.0,4,14
+YV4H60PF7S,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),32.0,5,15
+7SAYGDEE5P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,16
+7SAYGDEFXP,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,17
+5YJSA1E58P,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,4,18
+1G1FY6S04P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,6,19
+5UXTA6C08P,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30.0,1,20
+KNDC3DLC4R,KIA,EV6,Battery Electric Vehicle (BEV),0.0,1,21
+KM8S7DA28P,HYUNDAI,SANTA FE,Plug-in Hybrid Electric Vehicle (PHEV),30.0,7,22
+5UX43EU03S,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),40.0,4,23
+5YJ3E1EB1R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,2,24
+KNDPZDAH8P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,1,25
+JTJCJMGA7R,LEXUS,RX,Plug-in Hybrid Electric Vehicle (PHEV),37.0,0,26
+7SAYGDEE9R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,27
+1C4RJXN6XR,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,6,28
+KNDPYDDH8R,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,0,29
+3MW39FS08P,BMW,330E,Plug-in Hybrid Electric Vehicle (PHEV),20.0,8,30
+YV4H60CK3P,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),32.0,1,31
+5UX43EU06R,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),39.0,9,32
+5YJ3E1EB0P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,2,33
+7SAYGAEE4P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,34
+7SAYGAEE1P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,35
+5YJSA1E58P,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,3,36
+1FMCU0E19P,FORD,ESCAPE,Plug-in Hybrid Electric Vehicle (PHEV),37.0,3,37
+1FT6W7L70R,FORD,F-150,Battery Electric Vehicle (BEV),0.0,3,38
+1FT6W1EV6P,FORD,F-150,Battery Electric Vehicle (BEV),0.0,3,39
+7SAYGDEE5P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,40
+1G1FZ6S04P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,10,41
+KM8KRDAF2P,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,2,42
+7SAYGDEE1P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,43
+1C4JJXR64P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,44
+1N4AZ1BV1P,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,3,45
+5YJ3E1EA3R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,46
+7SAYGDEE4P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,47
+7SAYGDEE0R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,48
+5YJ3E1EA0R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,10,49
+KNDC4DLC3P,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,50
+KNDRMDLH1P,KIA,SORENTO,Plug-in Hybrid Electric Vehicle (PHEV),32.0,0,51
+5NMMCET10R,GENESIS,GV70,Battery Electric Vehicle (BEV),0.0,3,52
+7SAYGAEE7R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,53
+WB523CF02P,BMW,IX,Battery Electric Vehicle (BEV),0.0,3,54
+7SAYGDEE7P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,55
+YV4ED3UM9P,VOLVO,XC40,Battery Electric Vehicle (BEV),0.0,3,56
+4JGGM5DB3R,MERCEDES-BENZ,EQE-CLASS SUV,Battery Electric Vehicle (BEV),0.0,10,57
+5YJ3E1EA0P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,58
+1C4JJXP69P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,11,59
+W1N9M0KB9P,MERCEDES-BENZ,EQB-CLASS,Battery Electric Vehicle (BEV),0.0,3,60
+7SAYGAEE5R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,61
+7SAYGDEE7P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,62
+5YJ3E1EB9R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,63
+7SAYGDEE1P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,64
+7SAYGAEE7R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,65
+KNDCR3LF5R,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33.0,3,66
+1C4RJYB61P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,67
+7SAYGDEE2R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,4,68
+7SAYGAEE8P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,69
+7SAYGDEE3P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,70
+1C4RJYB62P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,71
+1C4RJXN65R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,72
+JTMAB3FV9R,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,3,73
+JTMABABA8P,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,3,74
+1C4JJXN63P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,75
+7PDSGABAXP,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,76
+7SAYGDEE2P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,77
+5YJ3E1EB1P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,78
+5YJSA1E54P,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,3,79
+7SAYGDEE4P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,80
+7SAYGDEF9P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,81
+5YJ3E1EB0P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,10,82
+KNDC34LA5P,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,83
+1G1FZ6S03P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,84
+7SAYGDED1R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,85
+5YJ3E1EA3P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,2,86
+WB523CF07S,BMW,IX,Battery Electric Vehicle (BEV),0.0,3,87
+1C4RJXP67R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,88
+KMHM34AC8P,HYUNDAI,IONIQ 6,Battery Electric Vehicle (BEV),0.0,3,89
+7SAYGDEF1P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,4,90
+7PDSGBBA5S,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,91
+7SAYGDEE8P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,92
+5YJ3E1EC7P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,10,93
+1C4JJXP6XP,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,94
+7SAYGAEE4P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,95
+KNDC3DLC8P,KIA,EV6,Battery Electric Vehicle (BEV),0.0,0,96
+7FCTGBAA1P,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,10,97
+7SAYGAEEXR,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,98
+W1KCG4EB9P,MERCEDES-BENZ,EQS-CLASS SEDAN,Battery Electric Vehicle (BEV),0.0,3,99
+1C4JJXP69P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,100
+7SAYGDEEXP,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,101
+5YJ3E1EA6P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,102
+7SAYGDEE7P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,103
+7SAYGDEF7R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,104
+7SAYGAEE6R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,105
+KNDCR3L1XP,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,3,106
+7SAYGDEEXP,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,107
+1C4RJYB63P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,108
+JM3KKDHA9R,MAZDA,CX-90,Plug-in Hybrid Electric Vehicle (PHEV),26.0,3,109
+1N4AZ1BVXP,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,3,110
+YSMEG3KA0P,POLESTAR,PS2,Battery Electric Vehicle (BEV),0.0,3,111
+7SAYGDEE0P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,112
+5YJ3E1EA1P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,113
+5YJ3E1EA8P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,114
+7SAYGAEE6P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,115
+JTMABACA0R,TOYOTA,BZ4X,Battery Electric Vehicle (BEV),0.0,0,116
+7FCTGBAA9P,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,3,117
+1GYKPMRL4R,CADILLAC,LYRIQ,Battery Electric Vehicle (BEV),0.0,3,118
+7SAYGDEE3R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,119
+1C4JJXP63P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,120
+7SAYGDEF8P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,121
+JTMAB3FV4P,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,3,122
+1N4AZ1BV8R,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,3,123
+7SAYGAEE3P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,124
+7SAYGAEE4P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,125
+7SAYGDEEXR,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,126
+WBY33AW07P,BMW,I4,Battery Electric Vehicle (BEV),0.0,10,127
+7SAYGDEF3P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,128
+JM3KKEHA9R,MAZDA,CX-90,Plug-in Hybrid Electric Vehicle (PHEV),26.0,10,129
+1C4RJXP6XR,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,130
+4JGDM4EB9P,MERCEDES-BENZ,EQS-CLASS SUV,Battery Electric Vehicle (BEV),0.0,3,131
+1C4JJXP66P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,132
+3FMTK3SU5P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,133
+5YJ3E1EA7R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,134
+7SAYGDEE2R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,135
+JN1DF0CD7P,NISSAN,ARIYA,Battery Electric Vehicle (BEV),0.0,3,136
+1G1FY6S00P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,11,137
+5YJ3E1EA4P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,138
+JN1BF0BA9P,NISSAN,ARIYA,Battery Electric Vehicle (BEV),0.0,0,139
+1V2DNPE88P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,11,140
+7FCTGBAAXR,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,0,141
+7SAYGDEE6P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,142
+7SAYGDEF6P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,143
+1C4RJXP60R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,144
+1C4RJYD61P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,10,145
+KM8KN4DE2R,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,146
+KNDCS3LF6R,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33.0,3,147
+7PDSGABA6R,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,148
+KM8KNDDF5R,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,10,149
+YV4H60DE9P,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),35.0,3,150
+5YJ3E1EC1P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,151
+1C4JJXR61P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,1,152
+5YJ3E1EA7P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,0,153
+KNDC34LB8R,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,154
+1V2VMPE89P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,10,155
+4JGGM1CB5P,MERCEDES-BENZ,EQE-CLASS SUV,Battery Electric Vehicle (BEV),0.0,3,156
+1G1FX6S08P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,3,157
+WBY43AW03R,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,158
+1V2FMPE86P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,159
+7SAYGDEE3R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,160
+KM8JFDD28R,HYUNDAI,TUCSON,Plug-in Hybrid Electric Vehicle (PHEV),33.0,3,161
+7SAYGDEE5R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,162
+1C4JJXP60P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,163
+WA1E2AFY8R,AUDI,Q5 E,Plug-in Hybrid Electric Vehicle (PHEV),23.0,3,164
+7SAXCBE56P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,165
+7PDSGBBA2R,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,166
+1C4RJYB65P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,167
+7PDSGABA7R,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,168
+1C4JJXN67P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,169
+YV4H60DM6R,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),35.0,3,170
+KNDCR3LF6P,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33.0,3,171
+1C4RJXU64R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,10,172
+1FTVW1EL3P,FORD,F-150,Battery Electric Vehicle (BEV),0.0,11,173
+5YJ3E1EA9P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,174
+4JGGM1CB0P,MERCEDES-BENZ,EQE-CLASS SUV,Battery Electric Vehicle (BEV),0.0,3,175
+7SAYGDEF0P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,176
+KNDPYDAH9P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,3,177
+KM8K23AG0P,HYUNDAI,KONA ELECTRIC,Battery Electric Vehicle (BEV),0.0,10,178
+7SAYGDEF0R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,179
+KNDPYDAH6P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,3,180
+7SAYGAEE1P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,181
+7SAYGDEE6P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,2,182
+7SAYGDEE2P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,183
+5UXTA6C02P,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30.0,3,184
+KNDPYDAH0P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,4,185
+1C4RJYB60P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,186
+7PDSGABA6P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,187
+5YJ3E1EB6R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,188
+JTMABACA6P,TOYOTA,BZ4X,Battery Electric Vehicle (BEV),0.0,3,189
+KM8KRDDF0R,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,190
+7SAYGDEE9P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,191
+JTMABABA9P,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,3,192
+7SAYGDED4R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,193
+5YJ3E1EAXP,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,194
+5YJ3E1EA2P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,195
+1V2DNPE81P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,196
+5YJSA1E50P,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,10,197
+1FT6W1EV1P,FORD,F-150,Battery Electric Vehicle (BEV),0.0,3,198
+JN1CF0BB3P,NISSAN,ARIYA,Battery Electric Vehicle (BEV),0.0,3,199
+1C4JJXN61P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,200
+7SAYGDEF6P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,201
+WB523CF06R,BMW,IX,Battery Electric Vehicle (BEV),0.0,3,202
+7SAYGAEE4R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,203
+1N4AZ1BV5P,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,3,204
+1C4RJXN63R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,10,205
+JTJCJMGA9R,LEXUS,RX,Plug-in Hybrid Electric Vehicle (PHEV),37.0,3,206
+4JGGM1CB4R,MERCEDES-BENZ,EQE-CLASS SUV,Battery Electric Vehicle (BEV),0.0,3,207
+YV4H60DE6P,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),35.0,3,208
+JTMEB3FV4R,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,3,209
+YV4H60CNXP,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,210
+YSMET3KA1P,POLESTAR,PS2,Battery Electric Vehicle (BEV),0.0,3,211
+3FMTK2SU5P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,2,212
+1FMCU0E12P,FORD,ESCAPE,Plug-in Hybrid Electric Vehicle (PHEV),37.0,3,213
+1GYKPTRL5R,CADILLAC,LYRIQ,Battery Electric Vehicle (BEV),0.0,3,214
+YV4ED3GL8P,VOLVO,C40,Battery Electric Vehicle (BEV),0.0,10,215
+7SAXCAE53P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,216
+KNDC4DLC9R,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,217
+JTMABABA6P,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,3,218
+WMW13DJ00R,MINI,HARDTOP,Battery Electric Vehicle (BEV),0.0,3,219
+7SAYGDEE4R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,220
+KNDCR3LF7R,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33.0,3,221
+KM8K23AG8P,HYUNDAI,KONA ELECTRIC,Battery Electric Vehicle (BEV),0.0,3,222
+5YJSA1E62P,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,10,223
+YV4H60LF0R,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,224
+1C4JJXN67P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,10,225
+1C4RJYB61P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,4,226
+7SAYGDEE9R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,227
+1FTVW1EL9P,FORD,F-150,Battery Electric Vehicle (BEV),0.0,0,228
+1G1FX6S00P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,3,229
+KNDC3DLC9P,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,230
+WBY73AW04P,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,231
+7PDSGABA1P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,10,232
+KNDAEFS50R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,3,233
+7SAYGAEE9P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,234
+7SAYGAEE1R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,235
+7SAYGDEE9P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,2,236
+KNDCS3LFXP,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33.0,3,237
+7PDSGABA7P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,238
+3GPKHZRJ3R,HONDA,PROLOGUE,Battery Electric Vehicle (BEV),0.0,4,239
+7SAYGDEE6R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,240
+1V25MPE89R,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,241
+1V2WNPE89P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,242
+JTMABABA4R,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,3,243
+5YJ3E1EB5P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,244
+YV4H60DL2P,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),35.0,3,245
+7SAYGAEE2P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,246
+7SAYGDEF5P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,247
+KM8KRDDF8R,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,1,248
+JM3KKEHA8R,MAZDA,CX-90,Plug-in Hybrid Electric Vehicle (PHEV),26.0,3,249
+1G1FW6S03P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,3,250
+KNDAEFS57R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,10,251
+1C4RJXN65R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,0,252
+1G1FX6S05P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,12,253
+KM8KNDAF4P,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,254
+5YJ3E1EB3P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,255
+1N4CZ1CV4P,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,0,256
+KNDAFFS53R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,10,257
+7SAYGDEE0R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,258
+5YJ3E1EC9P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,10,259
+KNDPYDAH7P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,3,260
+WMW13DJ07P,MINI,HARDTOP,Battery Electric Vehicle (BEV),0.0,3,261
+1G1FZ6S04P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,262
+JTMFB3FV9R,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,0,263
+JA4T5VA99R,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),38.0,3,264
+1V2DNPE82P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,10,265
+JN1DF0BB6R,NISSAN,ARIYA,Battery Electric Vehicle (BEV),0.0,3,266
+7PDSGABA4P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,267
+ZACPDFCW4R,DODGE,HORNET,Plug-in Hybrid Electric Vehicle (PHEV),32.0,0,268
+5YJSA1E64P,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,3,269
+2C4RC1L74P,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,270
+7SAYGDEF2P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,271
+7SAYGDEDXR,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,272
+1V2JNPE81P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,0,273
+3FMTK3SU6P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,274
+WBY33AW06P,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,275
+1GYKPTRLXR,CADILLAC,LYRIQ,Battery Electric Vehicle (BEV),0.0,3,276
+1G1FX6S06P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,3,277
+KNDC4DLC9P,KIA,EV6,Battery Electric Vehicle (BEV),0.0,0,278
+1G1FX6S07P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,3,279
+7FCTGBAA6P,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,0,280
+JTMABABAXR,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,1,281
+1G1FY6S07P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,282
+5YJ3E1EA5P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,283
+1FTVW1EL8P,FORD,F-150,Battery Electric Vehicle (BEV),0.0,3,284
+KM8JFDA28P,HYUNDAI,TUCSON,Plug-in Hybrid Electric Vehicle (PHEV),33.0,4,285
+1V2DNPE8XP,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,286
+7SAXCBE55P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,1,287
+3FMTK4SX8P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,288
+JTMABABA7R,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,3,289
+1V2WNPE82P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,2,290
+KMUKCDSC6R,GENESIS,GV60,Battery Electric Vehicle (BEV),0.0,3,291
+YV4H60CW0P,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,292
+1V2VMPE87P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,2,293
+3FMTK4SX0P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,294
+1G1FW6S05P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,3,295
+4JGDM2EB4P,MERCEDES-BENZ,EQS-CLASS SUV,Battery Electric Vehicle (BEV),0.0,10,296
+KM8KNDAFXP,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,11,297
+1G1FZ6S08P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,298
+WBY43AW07R,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,299
+1N4CZ1CV9P,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,3,300
+7SAYGDEE5R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,301
+JTMFB3FV2P,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,10,302
+7SAYGAEE3R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,303
+1V2WNPE82P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,304
+7SAXCBE51R,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,305
+JN1BF0BA4R,NISSAN,ARIYA,Battery Electric Vehicle (BEV),0.0,3,306
+JN1DF0BB1P,NISSAN,ARIYA,Battery Electric Vehicle (BEV),0.0,3,307
+1G1FY6S07P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,0,308
+7SAYGAEE0P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,309
+5YJ3E1EB2R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,310
+7PDSGABA1R,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,10,311
+7SAYGDEFXR,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,312
+WMZ23BS04P,MINI,COUNTRYMAN,Plug-in Hybrid Electric Vehicle (PHEV),17.0,3,313
+1C4JJXP65P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,314
+1C4JJXP61P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,315
+WBY43AW00P,BMW,I4,Battery Electric Vehicle (BEV),0.0,10,316
+1G1FX6S04P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,3,317
+5YJ3E1ECXP,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,13,318
+3MW39FS03P,BMW,330E,Plug-in Hybrid Electric Vehicle (PHEV),20.0,3,319
+WB523CF02R,BMW,IX,Battery Electric Vehicle (BEV),0.0,3,320
+7SAYGDEE3R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,321
+JA4T5WA95R,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),38.0,3,322
+1G1FZ6S00P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,10,323
+JM3KKDHA6R,MAZDA,CX-90,Plug-in Hybrid Electric Vehicle (PHEV),26.0,3,324
+7SAXCBE68P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,325
+7SAYGDED8R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,326
+1G1FW6S0XP,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,0,327
+1C4RJXP62R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,328
+1C4JJXR69P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,329
+JA4T5VA9XP,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),38.0,3,330
+7SAYGAEE2P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,331
+WB523CF05R,BMW,IX,Battery Electric Vehicle (BEV),0.0,3,332
+KNDCS3LF4P,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33.0,14,333
+WA15AAGEXR,AUDI,Q8,Battery Electric Vehicle (BEV),0.0,3,334
+7SAXCDE53R,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,335
+7G2CEHED6R,TESLA,CYBERTRUCK,Battery Electric Vehicle (BEV),0.0,3,336
+1FTVW1EL3P,FORD,F-150,Battery Electric Vehicle (BEV),0.0,3,337
+WB523CF01R,BMW,IX,Battery Electric Vehicle (BEV),0.0,3,338
+7SAYGDEE1R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,339
+1V2DNPE83P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,340
+7SAYGDEE0P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,341
+1C4JJXN68P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,342
+7PDSGCBAXR,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,343
+7SAYGDEE2R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,12,344
+JTMAB3FV1P,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,3,345
+7SAYGDEE7R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,346
+JTMEB3FV5R,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,3,347
+1V2WNPE83P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,0,348
+JTMEB3FV7R,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,3,349
+WP0BB2Y13P,PORSCHE,TAYCAN,Battery Electric Vehicle (BEV),0.0,3,350
+7SAYGDEE3P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,351
+JTMABABAXR,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,3,352
+WP0AA2Y1XR,PORSCHE,TAYCAN,Battery Electric Vehicle (BEV),0.0,3,353
+WBY73AW0XP,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,354
+5YJ3E1EA3P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,355
+WBY33AW09R,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,356
+ZACPDFDW1R,DODGE,HORNET,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,357
+KNDC3DLC6P,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,358
+YV4H600N4P,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,359
+7SAYGDED7R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,360
+KM8KRDAF4P,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,361
+5YJ3E1EA3P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,10,362
+YV4ED3GM3P,VOLVO,C40,Battery Electric Vehicle (BEV),0.0,3,363
+5YJ3E1EA9P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,10,364
+7SAYGDEFXR,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,2,365
+WBY43AW0XR,BMW,I4,Battery Electric Vehicle (BEV),0.0,10,366
+7SAYGDEE6P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,367
+1C4JJXN69P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,368
+KNDC3DLC3R,KIA,EV6,Battery Electric Vehicle (BEV),0.0,10,369
+1C4RJXP64R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,1,370
+1C4RJYB67P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,371
+JM1DRADB6P,MAZDA,MX-30,Battery Electric Vehicle (BEV),0.0,3,372
+YV4ER3XM4R,VOLVO,XC40,Battery Electric Vehicle (BEV),0.0,3,373
+1G1FZ6S06P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,374
+KNDPZDAH5P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,3,375
+5YJSA1E62P,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,3,376
+YSMED3KA5P,POLESTAR,PS2,Battery Electric Vehicle (BEV),0.0,3,377
+7SAYGDED7R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,378
+KNDPYDDH8R,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,3,379
+KMHM34AC0P,HYUNDAI,IONIQ 6,Battery Electric Vehicle (BEV),0.0,3,380
+7SAYGDEE8R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,381
+1C4RJXP65R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,382
+KNDRMDLH8P,KIA,SORENTO,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,383
+3GNKDBRJ7R,CHEVROLET,BLAZER EV,Battery Electric Vehicle (BEV),0.0,10,384
+3FMTK3SUXP,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,385
+KM8KNDAF8P,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,386
+1V2WNPE80P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,387
+KNDC3DLC9R,KIA,EV6,Battery Electric Vehicle (BEV),0.0,4,388
+WA1E2AFY4P,AUDI,Q5 E,Plug-in Hybrid Electric Vehicle (PHEV),23.0,3,389
+KM8JBDD21R,HYUNDAI,TUCSON,Plug-in Hybrid Electric Vehicle (PHEV),33.0,3,390
+1C4JJXR66P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,391
+W1KCG5FBXP,MERCEDES-BENZ,EQS-CLASS SEDAN,Battery Electric Vehicle (BEV),0.0,3,392
+7SAXCAE58P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,393
+3GNKDCRJ3R,CHEVROLET,BLAZER EV,Battery Electric Vehicle (BEV),0.0,1,394
+1FTVW1EV0P,FORD,F-150,Battery Electric Vehicle (BEV),0.0,10,395
+1V2WNPE83P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,396
+7SAYGAEE0R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,397
+W1KEG5DB6P,MERCEDES-BENZ,EQE-CLASS SEDAN,Battery Electric Vehicle (BEV),0.0,3,398
+1G1FX6S09P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,3,399
+5UX43EU07R,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),39.0,3,400
+KM8KRDDF7R,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,0,401
+1C4JJXR6XP,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,402
+KNDCT3L11P,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,3,403
+7SAYGDEF1P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,404
+KNDCR3L1XP,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,0,405
+3FMTK4SE6P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,406
+7SAXCBE63P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,407
+7SAYGDEF4P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,408
+7PDSGBBA9P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,409
+WA1F2BFY8P,AUDI,Q5 E,Plug-in Hybrid Electric Vehicle (PHEV),23.0,3,410
+5YJ3E1EA1R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,411
+1FTVW3LKXR,FORD,F-150,Battery Electric Vehicle (BEV),0.0,3,412
+3FMTK4SE0P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,413
+1C4JJXN60P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,10,414
+7SAXCBE65P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,415
+5YJ3E1EA5R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,2,416
+1C4RJYB65R,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,417
+YV1H60EP9R,VOLVO,V60,Plug-in Hybrid Electric Vehicle (PHEV),41.0,3,418
+2C4RC1S7XP,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,419
+WB523CF03R,BMW,IX,Battery Electric Vehicle (BEV),0.0,3,420
+KM8KMDDF7R,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,421
+5UXTA6C03P,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30.0,3,422
+7SAXCAE51P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,423
+5YJ3E1EA6P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,10,424
+JA4T5VA95P,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),38.0,3,425
+7SAXCDE54R,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,426
+5YJ3E1EA4P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,2,427
+7PDSGABA1P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,0,428
+WAUCJBFW4P,AUDI,E-TRON GT,Battery Electric Vehicle (BEV),0.0,10,429
+1G1FW6S0XP,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,3,430
+7PDSGABA9P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,431
+JTJCJMGA7R,LEXUS,RX,Plug-in Hybrid Electric Vehicle (PHEV),37.0,10,432
+YV4H60CX1P,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),32.0,0,433
+1C4JJXR68P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,434
+JA4T5UA94P,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),38.0,11,435
+WB523CF08R,BMW,IX,Battery Electric Vehicle (BEV),0.0,3,436
+KNDCT3L16R,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,3,437
+1C4JJXN60P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,438
+7SAYGDEEXP,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,439
+7SAXCAE56P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,440
+WA16ABGEXR,AUDI,Q8,Battery Electric Vehicle (BEV),0.0,3,441
+1C4RJYB68P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,442
+7FCTGBAA3P,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,3,443
+WBY73AW06P,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,444
+JM3KKEHA3R,MAZDA,CX-90,Plug-in Hybrid Electric Vehicle (PHEV),26.0,3,445
+3MW39FF01P,BMW,330E,Plug-in Hybrid Electric Vehicle (PHEV),22.0,3,446
+WBY13HG00S,BMW,I5,Battery Electric Vehicle (BEV),0.0,3,447
+5YJ3E1EC8P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,448
+JTMAB3FV3R,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,3,449
+1G1FZ6S01P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,450
+1V2WSPE81R,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,451
+JTJAAAAB5P,LEXUS,RZ,Battery Electric Vehicle (BEV),0.0,3,452
+3GNKDBRJ9R,CHEVROLET,BLAZER EV,Battery Electric Vehicle (BEV),0.0,3,453
+WBY53EJ08R,BMW,I7,Battery Electric Vehicle (BEV),0.0,3,454
+WBY43FK01R,BMW,I5,Battery Electric Vehicle (BEV),0.0,3,455
+1V2GNPE80P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,2,456
+2C4RC1S76P,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,457
+WP0AA2Y15R,PORSCHE,TAYCAN,Battery Electric Vehicle (BEV),0.0,3,458
+KNDRMDLHXP,KIA,SORENTO,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,459
+7SAYGDEE5P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,460
+1C4JJXN62P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,461
+7SAYGDEF7P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,2,462
+5YJSA1E50P,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,12,463
+1V2VMPE85P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,464
+1C4RJXN65R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,2,465
+1G1FY6S06P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,466
+7SAXCDE55P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,467
+1C4RJXR69R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,468
+7SAYGDEF7P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,13,469
+KNDPZDAH9P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,3,470
+KNDPYDAH8P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,10,471
+WAUFJBFW2R,AUDI,E-TRON GT,Battery Electric Vehicle (BEV),0.0,3,472
+5UX43EU00R,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),39.0,10,473
+KM8K23AG1P,HYUNDAI,KONA ELECTRIC,Battery Electric Vehicle (BEV),0.0,3,474
+1FT6W1EV5P,FORD,F-150,Battery Electric Vehicle (BEV),0.0,2,475
+1G1FZ6S0XP,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,476
+2C4RC1L72P,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,477
+WB533CF01P,BMW,IX,Battery Electric Vehicle (BEV),0.0,3,478
+7SAYGDEF2R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,479
+KM8KRDDF1R,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,480
+1C4RJYB69P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,13,481
+W1N9M0KB7P,MERCEDES-BENZ,EQB-CLASS,Battery Electric Vehicle (BEV),0.0,3,482
+5UX43EU06R,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),39.0,3,483
+3FMTK4SE4P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,10,484
+KNDCT3L14R,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,3,485
+7SAYGDEE8P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,486
+KNDC3DLC2R,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,487
+JTMCB3FV7P,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,3,488
+VCF1UBU28P,FISKER,OCEAN,Battery Electric Vehicle (BEV),0.0,3,489
+7SAYGAEE9R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,2,490
+KNDAEFS59R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,3,491
+4JGGM1CB2P,MERCEDES-BENZ,EQE-CLASS SUV,Battery Electric Vehicle (BEV),0.0,3,492
+KMHM54AC6R,HYUNDAI,IONIQ 6,Battery Electric Vehicle (BEV),0.0,3,493
+WBY43AW06R,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,494
+YV4H60DW6P,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),35.0,3,495
+1N4AZ1BV2R,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,3,496
+50EA1TEA1R,LUCID,AIR,Battery Electric Vehicle (BEV),0.0,3,497
+KNDCT3L12P,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,3,498
+7SAYGDED5P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,499
+JTMABABA2R,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,3,500
+1C4JJXR65P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,501
+7SAXCAE55P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,502
+1V2VMPE83P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,503
+1G1FZ6S09P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,0,504
+1C4JJXN66P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,505
+7SAYGDEE4R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,506
+WBY33AW0XP,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,507
+3FMTK3SU9P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,508
+YV4H60CV4P,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),32.0,2,509
+7PDSGABA3P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,10,510
+KNDPYDAH8P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,3,511
+7FCTGAAA4P,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,12,512
+5UX43EU03R,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),39.0,3,513
+5UXTA6C09P,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30.0,3,514
+KM8KNDDF2R,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,515
+JTJAAAAB1P,LEXUS,RZ,Battery Electric Vehicle (BEV),0.0,3,516
+1C4JJXP68P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,517
+7SAYGDED0P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,518
+5YJSA1E59P,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,3,519
+5YJ3E1EA0P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,10,520
+5YJ3E1EB0P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,521
+1N4AZ1BV6P,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,3,522
+YV4ED3UM0P,VOLVO,XC40,Battery Electric Vehicle (BEV),0.0,3,523
+3FMTK3SU1P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,524
+JN1BF0BA5R,NISSAN,ARIYA,Battery Electric Vehicle (BEV),0.0,10,525
+3MW39FF00P,BMW,330E,Plug-in Hybrid Electric Vehicle (PHEV),22.0,10,526
+2C4RC1S71R,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,527
+KNDPZDDH0R,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,10,528
+7SAXCBE67P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,529
+1V2GNPE89P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,530
+1G1FX6S06P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,10,531
+3FMTK3R48P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,532
+5UXTA6C06P,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30.0,3,533
+5YJ3E1EB1R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,534
+7FCTGBAA0R,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,3,535
+7SAYGDEE8P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,536
+5YJSA1E5XP,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,3,537
+5YJ3E1EA5R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,538
+JA4T5UA91P,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),38.0,12,539
+JM3KKBHA2R,MAZDA,CX-90,Plug-in Hybrid Electric Vehicle (PHEV),26.0,3,540
+1V2CMPE89P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,10,541
+50EA1TEA6P,LUCID,AIR,Battery Electric Vehicle (BEV),0.0,3,542
+7SAYGDEE4R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,543
+3FMTK3SU0P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,544
+1C4JJXP62P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,545
+JTMAB3FVXP,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,10,546
+7PDSGBBA7P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,547
+3FMTK4SE2P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,1,548
+7PDSGABLXR,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,549
+3FMTK3SU2P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,550
+YSMED3KAXP,POLESTAR,PS2,Battery Electric Vehicle (BEV),0.0,3,551
+50EA1TEA2P,LUCID,AIR,Battery Electric Vehicle (BEV),0.0,3,552
+WP0AB2Y15R,PORSCHE,TAYCAN,Battery Electric Vehicle (BEV),0.0,3,553
+KNDC4DLC0P,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,554
+KNDAFFS59R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,3,555
+5YJ3E1EB8R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,1,556
+KNDC3DLC4R,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,557
+7PDSGABL8P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,558
+7SAXCDE55R,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,559
+4JGDM2EB2P,MERCEDES-BENZ,EQS-CLASS SUV,Battery Electric Vehicle (BEV),0.0,3,560
+5YJ3E1ET2R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,561
+7SAYGAEE3R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,562
+KNDADFS55R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,3,563
+KM8KRDDF2R,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,0,564
+5YJSA1E63P,TESLA,MODEL S,Battery Electric Vehicle (BEV),0.0,1,565
+1FTVW1ELXP,FORD,F-150,Battery Electric Vehicle (BEV),0.0,3,566
+JA4T5UA93P,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),38.0,3,567
+WP0BB2Y1XR,PORSCHE,TAYCAN,Battery Electric Vehicle (BEV),0.0,3,568
+1C4JJXR6XP,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,10,569
+1C4RJYB6XP,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,570
+ZACPDFDW0R,DODGE,HORNET,Plug-in Hybrid Electric Vehicle (PHEV),32.0,3,571
+1G1FZ6S06P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,0,572
+1C4JJXN65P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,573
+1G1FZ6S00P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,574
+5YJ3E1EB4P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,575
+5YJ3E1EB7P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,576
+KM8K23AG2P,HYUNDAI,KONA ELECTRIC,Battery Electric Vehicle (BEV),0.0,3,577
+KM8K53AG9P,HYUNDAI,KONA ELECTRIC,Battery Electric Vehicle (BEV),0.0,3,578
+4JGGM1CB8P,MERCEDES-BENZ,EQE-CLASS SUV,Battery Electric Vehicle (BEV),0.0,3,579
+5YJ3E1EAXP,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,0,580
+WBY83FB04R,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,581
+1C4RJXP69R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,582
+7SAYGDEF8P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,2,583
+1G1FY6S01P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,10,584
+1C4RJXN60R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,585
+7FCTGBAA2P,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,3,586
+KM8KRDAF6P,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,587
+KNDC34LAXR,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,588
+JTMABABA0P,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,3,589
+7SAXCBE53P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,590
+JTJKKCFZ6R,LEXUS,NX,Plug-in Hybrid Electric Vehicle (PHEV),37.0,3,591
+1C4JJXP64P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,592
+1C4RJXP63R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,593
+JTMABACA3R,TOYOTA,BZ4X,Battery Electric Vehicle (BEV),0.0,3,594
+KM8JFDD23R,HYUNDAI,TUCSON,Plug-in Hybrid Electric Vehicle (PHEV),33.0,1,595
+1C4JJXR67P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,596
+7SAYGAEE8R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,597
+2C4RC1N73P,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32.0,1,598
+1N4AZ1BV8P,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,2,599
+7SAYGAEE1R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,4,600
+7SAYGAEE7R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,601
+JTJHKCFZ2R,LEXUS,NX,Plug-in Hybrid Electric Vehicle (PHEV),37.0,3,602
+KM8HC3A68R,HYUNDAI,KONA ELECTRIC,Battery Electric Vehicle (BEV),0.0,3,603
+7SAXCDE50P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,604
+KNDAFFS57R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,4,605
+KM8KNDAF9P,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,606
+KNDCR3L14R,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,3,607
+3GPKHXRJ7R,HONDA,PROLOGUE,Battery Electric Vehicle (BEV),0.0,3,608
+1V2HMPE83P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,10,609
+1V2GNPE8XP,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,610
+7SAYGDEE9P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,611
+1C4JJXN6XP,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,612
+5YJ3E1EC6P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,0,613
+5UX43EU02R,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),39.0,0,614
+YV1H60EP5R,VOLVO,V60,Plug-in Hybrid Electric Vehicle (PHEV),41.0,3,615
+JTMABABA8R,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,3,616
+7PDSGBBA1P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,617
+5YJ3E1EA7P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,618
+WBY33AW05R,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,619
+JTMAB3FV7R,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,0,620
+1G1FY6S09P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,621
+5YJ3E1EB5R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,622
+1GYKPWRL0R,CADILLAC,LYRIQ,Battery Electric Vehicle (BEV),0.0,2,623
+JN1BF0BAXP,NISSAN,ARIYA,Battery Electric Vehicle (BEV),0.0,3,624
+KNDPZDAH6P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,10,625
+3GN7DLRR4R,CHEVROLET,EQUINOX EV,Battery Electric Vehicle (BEV),0.0,3,626
+1N4AZ1BV0P,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,3,627
+7FCTGBAA0P,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,3,628
+1G1FY6S05P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,629
+KNDCT3L13P,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,11,630
+1FT6W1EV2P,FORD,F-150,Battery Electric Vehicle (BEV),0.0,3,631
+1C4RJXP68R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,632
+3FMTK4SX2P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,633
+1C4RJYB66P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,634
+7PDSGABA8P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,635
+5YJ3E1EB3R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,636
+7SAYGAEE6R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,637
+KNDAFFS55R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,3,638
+YV4H60DL1R,VOLVO,XC60,Plug-in Hybrid Electric Vehicle (PHEV),35.0,3,639
+WBY73AW05P,BMW,I4,Battery Electric Vehicle (BEV),0.0,3,640
+5YJ3E1EB8P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,641
+1G1FX6S09P,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),0.0,10,642
+KM8KRDAF2P,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,0,643
+5YJ3E1EA9R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,1,644
+7SAYGDEF6R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,645
+WA15AAGE9R,AUDI,Q8,Battery Electric Vehicle (BEV),0.0,3,646
+7SAYGDEEXR,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,2,647
+1N4CZ1CV3P,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,3,648
+1V2CMPE86P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,10,649
+3FMTK3SU0P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,1,650
+1C4RJXR68R,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,1,651
+1C4RJYE63P,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,3,652
+KNDC4DLC7P,KIA,EV6,Battery Electric Vehicle (BEV),0.0,10,653
+3FMTK1SS3P,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),0.0,3,654
+1G1FY6S08P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,655
+YSMET3KA9P,POLESTAR,PS2,Battery Electric Vehicle (BEV),0.0,3,656
+1C4RJYB6XP,JEEP,GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),25.0,10,657
+4W5KHNRL1R,ACURA,ZDX,Battery Electric Vehicle (BEV),0.0,3,658
+JM3KKEHA0R,MAZDA,CX-90,Plug-in Hybrid Electric Vehicle (PHEV),26.0,3,659
+KM8KRDDF7R,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,660
+1G1FY6S04P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,661
+WA1DAAGEXR,AUDI,Q8,Battery Electric Vehicle (BEV),0.0,3,662
+7SAYGDEE2P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,663
+WB523CF04R,BMW,IX,Battery Electric Vehicle (BEV),0.0,3,664
+5YJ3E1EA6P,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,1,665
+7SAYGAEE7P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,666
+4JGGM1CB1P,MERCEDES-BENZ,EQE-CLASS SUV,Battery Electric Vehicle (BEV),0.0,3,667
+7SAYGDEF6R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,0,668
+7G2CEHED7R,TESLA,CYBERTRUCK,Battery Electric Vehicle (BEV),0.0,3,669
+KNDC3DLC2P,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,670
+5UXTA6C04P,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30.0,3,671
+1V2CMPE85P,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),0.0,3,672
+KNDADFS59R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,3,673
+1FMCU0E14P,FORD,ESCAPE,Plug-in Hybrid Electric Vehicle (PHEV),37.0,3,674
+7SAYGDEE6R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,675
+WP0AB2Y18R,PORSCHE,TAYCAN,Battery Electric Vehicle (BEV),0.0,3,676
+5UXTA6C0XP,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30.0,3,677
+7PDSGBBA9R,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,678
+5UXTA6C06P,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30.0,1,679
+KNDC3DLC9R,KIA,EV6,Battery Electric Vehicle (BEV),0.0,3,680
+WP0AA2Y12R,PORSCHE,TAYCAN,Battery Electric Vehicle (BEV),0.0,3,681
+JTMABACA8P,TOYOTA,BZ4X,Battery Electric Vehicle (BEV),0.0,10,682
+KNDADFS54R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,3,683
+YSMED3KA7P,POLESTAR,PS2,Battery Electric Vehicle (BEV),0.0,3,684
+KNDCR3LF0P,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),33.0,3,685
+1N4CZ1CV5R,NISSAN,LEAF,Battery Electric Vehicle (BEV),0.0,3,686
+7SAYGDEE7P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,687
+1C4JJXP61P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,11,688
+7G2CEHEE4R,TESLA,CYBERTRUCK,Battery Electric Vehicle (BEV),0.0,0,689
+5UX43EU00S,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),40.0,3,690
+7SAXCAE57P,TESLA,MODEL X,Battery Electric Vehicle (BEV),0.0,3,691
+7PDSGABA3P,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,692
+7SAYGDED3P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,3,693
+7PDSGABA6R,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,0,694
+1G1FY6S02P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,695
+KM8KNDAF1P,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,696
+5YJ3E1EA9R,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,697
+7G2CEHED0R,TESLA,CYBERTRUCK,Battery Electric Vehicle (BEV),0.0,3,698
+1GYKPWRL5R,CADILLAC,LYRIQ,Battery Electric Vehicle (BEV),0.0,3,699
+KM8KRDAF0P,HYUNDAI,IONIQ 5,Battery Electric Vehicle (BEV),0.0,3,700
+KNDCR3L19P,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,3,701
+7FCTGBAA9P,RIVIAN,R1T,Battery Electric Vehicle (BEV),0.0,2,702
+KNDPYDAH5P,KIA,SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),34.0,10,703
+WA1F2AFY1R,AUDI,Q5 E,Plug-in Hybrid Electric Vehicle (PHEV),23.0,3,704
+JTMAB3FV6P,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42.0,3,705
+KNDCR3L10R,KIA,NIRO,Battery Electric Vehicle (BEV),0.0,3,706
+KNDAEFS56R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,3,707
+KNDADFS5XR,KIA,EV9,Battery Electric Vehicle (BEV),0.0,3,708
+7SAYGDEF5R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,10,709
+KM8K23AGXP,HYUNDAI,KONA ELECTRIC,Battery Electric Vehicle (BEV),0.0,10,710
+3GNKDCRJ3R,CHEVROLET,BLAZER EV,Battery Electric Vehicle (BEV),0.0,10,711
+W1N9M0KB8P,MERCEDES-BENZ,EQB-CLASS,Battery Electric Vehicle (BEV),0.0,3,712
+JTMABABA2P,SUBARU,SOLTERRA,Battery Electric Vehicle (BEV),0.0,12,713
+7SAYGAEE0R,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,1,714
+KM8JFDD27R,HYUNDAI,TUCSON,Plug-in Hybrid Electric Vehicle (PHEV),33.0,10,715
+1C4JJXP67P,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),21.0,3,716
+7PDSGABA9R,RIVIAN,R1S,Battery Electric Vehicle (BEV),0.0,3,717
+5YJ3E1EBXP,TESLA,MODEL 3,Battery Electric Vehicle (BEV),0.0,3,718
+JTMABACA0R,TOYOTA,BZ4X,Battery Electric Vehicle (BEV),0.0,3,719
+1G1FY6S03P,CHEVROLET,BOLT EUV,Battery Electric Vehicle (BEV),0.0,3,720
+KNDAEFS53R,KIA,EV9,Battery Electric Vehicle (BEV),0.0,3,721
+7SAYGAEE3P,TESLA,MODEL Y,Battery Electric Vehicle (BEV),0.0,11,722
